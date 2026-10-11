@@ -1,0 +1,10 @@
+# Site Settings
+title: My Awesome Website
+description: Welcome to my portfolio and project page!
+
+# Theme Selection
+theme: jekyll-theme-minimal
+
+# Plugins needed for GitHub Pages
+plugins:
+  - jekyll-remote-theme
