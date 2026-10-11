@@ -9,11 +9,6 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-remote-theme
 
-# Favicon configuration
-head:
-  - modules:
-    - name: meta
-      link: [{rel: icon, type: image/png, href: "/image000002.png"}]
 
 
 show_downloads: true
