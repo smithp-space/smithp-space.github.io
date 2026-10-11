@@ -1,6 +1,6 @@
 # Site Settings
-title: My Awesome Website
-description: Welcome to my portfolio and project page!
+title: Patrice Smith
+description: Data & Code for Analyzing the Helium Lunar Exosphere
 
 # Theme Selection
 theme: jekyll-theme-minimal
@@ -8,3 +8,12 @@ theme: jekyll-theme-minimal
 # Plugins needed for GitHub Pages
 plugins:
   - jekyll-remote-theme
+
+# Favicon configuration
+head:
+  - modules:
+    - name: meta
+      link: [{rel: icon, type: image/png, href: "/image000002.png"}]
+
+
+show_downloads: true
